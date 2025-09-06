@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Patarakot
+Palm
+Beer
+
 <!--
 **Palmzx6/Palmzx6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
